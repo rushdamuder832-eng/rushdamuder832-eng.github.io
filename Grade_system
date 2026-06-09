@@ -1,0 +1,30 @@
+# Student Grade System
+
+print("=== Student Grade System ===")
+
+# Input marks
+math = float(input("Enter Math mark: "))
+english = float(input("Enter English mark: "))
+science = float(input("Enter Science mark: "))
+
+# Calculate total and average
+total = math + english + science
+average = total / 3
+
+# Determine grade
+if average >= 80:
+    grade = "A"
+elif average >= 70:
+    grade = "B"
+elif average >= 60:
+    grade = "C"
+elif average >= 50:
+    grade = "D"
+else:
+    grade = "F"
+
+# Output results
+print("\n--- Results ---")
+print("Total Marks:", total)
+print("Average:", average)
+print("Grade:", grade)
