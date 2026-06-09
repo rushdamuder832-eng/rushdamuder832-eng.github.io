@@ -1,6 +1,6 @@
 # My First GitHub Project
 
-Hello! My name is [Your Name]. I am a Computer Science student from Ethiopia.
+Hello! My name is Rushda. I am a Computer Science student from Ethiopia.
 
 ## About Me
 I am passionate about software development and learning how to build useful technology.
